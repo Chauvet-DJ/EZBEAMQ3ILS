@@ -1,4 +1,11 @@
-# EZBEAMQ3ILS
+# EZBeam Q3 ILS
+
+## Software Versions
+
+[V1.03 - EZBeam Q3 ILS](https://github.com/Chauvet-DJ/EZBEAMQ3ILS/blob/8d6b90e9f2fe4952a4202a2e78c10ce2b7a47ebf/Firmware/V1.03_04-09-24.zip)
+- Released software version
+
+&nbsp;
 
 ### Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
@@ -14,8 +21,7 @@
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
 * Do not disconnect from power source until the update process is complete.
 
-&nbsp;  
+  
 
 
-[V1.03 - EZBeam Q3 ILS](https://github.com/Chauvet-DJ/EZBEAMQ3ILS/blob/8d6b90e9f2fe4952a4202a2e78c10ce2b7a47ebf/Firmware/V1.03_04-09-24.zip)
-- Released software version
+
